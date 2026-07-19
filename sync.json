@@ -1,4 +1,5 @@
 {
   "apiKey": "AIzaSyCbPG54qNwo5j2WXYhmWN6RtVjlAw_fN6M",
-  "dbUrl": "https://zawnet-1-default-rtdb.firebaseio.com"
+  "dbUrl": "https://zawnet-1-default-rtdb.firebaseio.com",
+  "googleClientId": "1050832529500-m26vjg3mvqa0il3f4bof0vvnctdm8jef.apps.googleusercontent.com"
 }
